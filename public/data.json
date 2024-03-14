@@ -7,7 +7,7 @@
       "Title": "The Enigmatic Journey",
       "AuthorImage": "https://i.ibb.co/DC4Hdks/author1.jpg",
       "PostedDate": "March 14, 2024",
-      "ReadingTime": "15 minutes",
+      "ReadingTime": "15",
       "Hashtags": ["#fiction", "#mystery", "#journey"]
     },
     {
@@ -18,7 +18,7 @@
       "Title": "Echoes of Eternity",
       "AuthorImage": "https://i.ibb.co/CJMTX2V/author2.jpg",
       "PostedDate": "March 12, 2024",
-      "ReadingTime": "20 minutes",
+      "ReadingTime": "20",
       "Hashtags": ["#fantasy", "#adventure", "#time-travel"]
     },
     {
@@ -29,7 +29,7 @@
       "Title": "Whispers in the Wind",
       "AuthorImage": "https://i.ibb.co/mNgLr8L/author3.jpg",
       "PostedDate": "March 10, 2024",
-      "ReadingTime": "18 minutes",
+      "ReadingTime": "18",
       "Hashtags": ["#romance", "#suspense", "#secrets"]
     },
     {
@@ -40,7 +40,7 @@
       "Title": "Beyond the Stars",
       "AuthorImage": "ahttps://i.ibb.co/tDmjSg0/author4.jpg",
       "PostedDate": "March 8, 2024",
-      "ReadingTime": "25 minutes",
+      "ReadingTime": "25",
       "Hashtags": ["#sciencefiction", "#exploration", "#discovery"]
     },
     {
@@ -51,7 +51,7 @@
       "Title": "Dreams of Destiny",
       "AuthorImage": "https://i.ibb.co/bJkMrYX/author5.jpg",
       "PostedDate": "March 6, 2024",
-      "ReadingTime": "22 minutes",
+      "ReadingTime": "22",
       "Hashtags": ["#fantasy", "#dreams", "#fate"]
     }
   ]
