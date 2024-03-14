@@ -1,15 +1,17 @@
 import './App.css'
+import Header from './header'
 
 function App() {
   
 
   return (
-    <>
+    <div className='mx-20 my-10'>
       
-      <h1 className='text-xl bg-gray-500'>Knowledge Cafe</h1>
+      <Header></Header>
       
-    </>
+      </div>
   )
 }
 
 export default App
+                                        

@@ -1,0 +1,58 @@
+[
+    {
+      "ID": 123456,
+      "CoverImage": "https://i.ibb.co/QX8RXtZ/tech-cover-1.jpg",
+      "Author": "@fiction_writer_1",
+      "AuthorName": "Jane Doe",
+      "Title": "The Enigmatic Journey",
+      "AuthorImage": "https://i.ibb.co/DC4Hdks/author1.jpg",
+      "PostedDate": "March 14, 2024",
+      "ReadingTime": "15 minutes",
+      "Hashtags": ["#fiction", "#mystery", "#journey"]
+    },
+    {
+      "ID": 789012,
+      "CoverImage": "https://i.ibb.co/XVqPDTc/tech-cover-2.jpg",
+      "Author": "@novelist_extraordinaire",
+      "AuthorName": "John Smith",
+      "Title": "Echoes of Eternity",
+      "AuthorImage": "https://i.ibb.co/CJMTX2V/author2.jpg",
+      "PostedDate": "March 12, 2024",
+      "ReadingTime": "20 minutes",
+      "Hashtags": ["#fantasy", "#adventure", "#time-travel"]
+    },
+    {
+      "ID": 345678,
+      "CoverImage": "https://i.ibb.co/LJ4zW6T/tech-cover-3.jpg",
+      "Author": "@storyteller_pro",
+      "AuthorName": "Emily Johnson",
+      "Title": "Whispers in the Wind",
+      "AuthorImage": "https://i.ibb.co/mNgLr8L/author3.jpg",
+      "PostedDate": "March 10, 2024",
+      "ReadingTime": "18 minutes",
+      "Hashtags": ["#romance", "#suspense", "#secrets"]
+    },
+    {
+      "ID": 901234,
+      "CoverImage": "https://i.ibb.co/DG4LWGT/tech-cover-4.jpg",
+      "Author": "@imagination_crafter",
+      "AuthorName": "David Williams",
+      "Title": "Beyond the Stars",
+      "AuthorImage": "ahttps://i.ibb.co/tDmjSg0/author4.jpg",
+      "PostedDate": "March 8, 2024",
+      "ReadingTime": "25 minutes",
+      "Hashtags": ["#sciencefiction", "#exploration", "#discovery"]
+    },
+    {
+      "ID": 567890,
+      "CoverImage": "https://i.ibb.co/rfpzpcm/tech-cover-5.jpg",
+      "Author": "@wordsmith_genius",
+      "AuthorName": "Sarah Brown",
+      "Title": "Dreams of Destiny",
+      "AuthorImage": "https://i.ibb.co/bJkMrYX/author5.jpg",
+      "PostedDate": "March 6, 2024",
+      "ReadingTime": "22 minutes",
+      "Hashtags": ["#fantasy", "#dreams", "#fate"]
+    }
+  ]
+  
